@@ -1,4 +1,4 @@
 # GitHub
 Learning Git and Github in Detail.
 <br>
-Author - Harsh Pal
+Author - Harsh Pal (modified this file)
